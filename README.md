@@ -16,7 +16,7 @@ Then run
 flask run
 ```
 
-### Testing outpu:
+### Testing output:
 To test the output try the following curl command
 
 ```sh
