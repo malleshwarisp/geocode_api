@@ -39,4 +39,8 @@ Response should be something like
 }
 ```
 
+```py
+import this
+```
+
 
